@@ -1,5 +1,5 @@
 # Complete demo project using REACT and Spring Security
-=======================================================
+===
 
 ## Goal
 This project will guide you about how to create a security app using REACT like frontend and Spring Security like backend.
