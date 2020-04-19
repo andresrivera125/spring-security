@@ -1,5 +1,4 @@
 # Complete demo project using REACT and Spring Security
-===
 
 ## Goal
 This project will guide you about how to create a security app using REACT like frontend and Spring Security like backend.
@@ -7,7 +6,7 @@ This project will guide you about how to create a security app using REACT like 
 To see the evolution of the application, you can changing between branches as is following explain it.
 
 ## First example using OAUTH2
------------------------------
+
 This demo is based on the follow video tutorial:
 [Spring Boot OAUTH2 Google Login Tutorial](https://www.youtube.com/watch?v=GNKxGHVD1Eg)
 
