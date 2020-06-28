@@ -3,7 +3,7 @@
 ## Goal
 This project will guide you about how to create a security app using REACT like frontend and Spring Security like backend.
 
-To see the evolution of the application, you can changing between branches as is following explain it.
+To see the evolution of the application, you can change between branches as is following explain it.
 
 ## First example using OAUTH2
 
